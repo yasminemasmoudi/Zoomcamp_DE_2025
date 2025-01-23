@@ -1,0 +1,15 @@
+pgcli
+jupyter
+sqlalchemy
+psycopg2
+pandas
+pyarrow
+pgcli
+
+
+
+
+
+
+
+
